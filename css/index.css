@@ -1,0 +1,141 @@
+#First{float:left; width:100%; margin-top:15px;}
+.First_one{float:left; width:211px; height:auto; padding:0 10px; border-right:1px solid #dedede;}
+.First_one .office{float:left; width:210px;}
+.First_one .office ul li{float:left; width:105px;}
+.First_one .office ul li .dimg{width:105px; height:75px; float:left;}
+.First_one .office ul li .dimg img{width:75px; height:75px; margin-left:15px;}
+.First_one .office ul li span{float:left; width:105px; line-height:40px; font-size:18px; text-align:center;}
+.First_one .offnews{float:left; margin-top:10px; width:210px;}
+.First_one .offnews .title{float:left; color:#000; font-size:18px; line-height:30px; width:100%;}
+.First_one .offnews ul li{float:left; width:100%; height:30px; line-height:30px; border-bottom:1px solid #dedede; overflow:hidden;}
+.First_one .offnews ul li span{float:left; width:18px; height:18px; line-height:18px; text-align:center; margin-top:6px;}
+.First_one .offnews ul li:nth-child(1) span{background:#238f89; color:#FFF;}
+.First_one .offnews ul li:nth-child(2) span{background:#238f89; color:#FFF;}
+.First_one .offnews ul li:nth-child(3) span{background:#238f89; color:#FFF;}
+.First_one .offnews ul li a{float:left; margin-left:5px; color:#000;}
+.First_one .offnews .Choice{float:left; width:210px; height:30px; line-height:30px;}
+.First_one .offnews .Choice a{padding:0 6px;}
+.First_one .offnews .dimg{float:left; width:210px; height:65px;}
+.First_one .offnews .dimg img{width:210px; height:65px;}
+
+.First_two{float:left; width:555px; height:auto; margin-left:10px;}
+.First_two .flash{float:left; width:555px; height:250px;}
+.First_two .flash .view{float:left; width:555px; height:250px; position:relative; overflow:hidden;}
+.First_two .flash .view ul{ height:250px; overflow:hidden;}
+.First_two .flash .view li{ float:left; position:relative; width:555px; height:250px; overflow:hidden;}
+.First_two .flash .view li img{ display:block; width:555px; height:250px;}
+.First_two .flash .view .text{ position:absolute; left:0; bottom:0; z-index:8; width:532px; height:20px; line-height:20px; padding:0 10px; color:#fff; font-size:12px; background:rgba(0,0,0,0.5);}
+.First_two .flash .view .pointer{ position:absolute; top:122px; z-index:10; width:22px; height:46px; overflow:hidden;}
+.First_two .flash .view .pointer:hover{ cursor:pointer;}
+.First_two .flash .view .number{ position:absolute; right:0; bottom:3px; z-index:9;}
+.First_two .flash .view .number span{ display:inline-block; width:8px; height:8px; margin-right:11px; border-radius:4px; background:#fff; overflow:hidden;}
+.First_two .flash .view .number span:hover{ cursor:pointer;}
+.First_two .flash .view .number .active{ background:#ff3600;}
+
+#Catalog{float:left; width:555px; height:685px; margin-top:5px; overflow:hidden;}
+#Catalog .title{width:100%; height:30px; line-height:30px;border-bottom:1px solid #dedede; font-size:16px;}
+#Catalog ul li{float:left; width:100%; border-bottom:1px dashed #dedede;}
+#Catalog ul li .tit{float:left; width:100%; line-height:26px; margin-top:5px;}
+#Catalog ul li .tit a{color:#254e6f; font-size:14px; font-weight:bold; float:left;}
+#Catalog ul li .tit span{margin-left:50px;}
+#Catalog ul li p{margin-left:20px; line-height:30px;}
+#Catalog ul li p a{color:#4141ff;}
+.First_thi{float:right; width:280px; margin-right:10px;}
+.First_thi .conoff{float:left; width:280px; height:250px;}
+.First_thi .conoff .tit{float:left; width:280px; height:20px; line-height:20px; font-size:18px; color:#238f89;}
+.First_thi .conoff input,.First_thi .conoff select{margin-top:15px; background:none; border:1px solid #238f89;}
+
+.First_thi_flash{float:left; width:278px; height:238px; border:1px solid #dedede;}
+.First_thi_flash .view{float:left; width:278px; height:238px; position:relative; overflow:hidden;}
+.First_thi_flash .view ul{ height:238px; overflow:hidden;}
+.First_thi_flash .view li{ float:left; position:relative; width:278px; height:238px; overflow:hidden;}
+.First_thi_flash .view li img{ display:block; width:278px; height:238px;}
+.First_thi_flash .view .text{ position:absolute; left:0; bottom:0; z-index:8; width:268px; height:20px; line-height:20px; padding:0 10px; color:#fff; font-size:12px; background:rgba(0,0,0,0.5);}
+.First_thi_flash .view .pointer{ position:absolute; top:122px; z-index:10; width:22px; height:46px; overflow:hidden;}
+.First_thi_flash .view .pointer:hover{ cursor:pointer;}
+.First_thi_flash .view .number{ position:absolute; right:0; bottom:3px; z-index:9;}
+.First_thi_flash .view .number span{ display:inline-block; width:8px; height:8px; margin-right:11px; border-radius:4px; background:#fff; overflow:hidden;}
+.First_thi_flash .view .number span:hover{ cursor:pointer;}
+.First_thi_flash .view .number .active{ background:#ff3600;}
+
+.First_thi .ohimg{float:left; width:280px; text-align:center;}
+.First_thi .ohimg img{width:272px; margin-top:10px;}
+.First_thi .ohimg a:hover img{width:280px;}
+
+#Second,#Third,#Fourth{float:left; margin-top:10px; width:1080px; padding:0 10px 10px 10px;}
+.Index_title{float:left; width:100%; height:45px; line-height:45px; border-top:2px solid #999999; border-bottom:1px solid #dedede;}
+.Index_title h1{float:left; font-size:16px; color:#238f89;}
+.Index_title span.eng{float:left; font-size:12px; margin-left:15px; color:#a8a8a8;}
+.Index_title span.oth{float:left; font-size:14px; margin-left:30px; color:#a8a8a8;}
+.Index_title span.oth a{color:#238f89;}
+.Index_title img{float:left; margin-left:10px; margin-top:15px;}
+.Index_title a.more{float:left; margin-left:30px; color:#a8a8a8;}
+
+.tabMenu{float:left; margin-top:15px; width:662px; height:334px; border:1px solid #dedede;}
+.menu{height:27px;}
+.menu li{width:132px;height:28px;line-height:27px;background:#ececec;color:#999;text-align:center;float:left;border-left:1px solid #dedede;border-bottom:1px solid #dedede;cursor:pointer;font-size:12px;color:#000;}
+.menu .hover{background:#fff;color:#238f89;font-weight:bold;border-bottom:0;}
+.tabContent{height:284px;width:642px;padding:10px;overflow:auto; background:#FFF;}
+.hid{display:none;}
+.lu{margin-top:5px;padding-left:20px;background:url(../images/left.png) no-repeat 1px 7px;border-bottom:1px dashed #000;}
+.lu p.doi{font-size:14px; font-weight:500; line-height:20px;}
+.lu p{line-height:28px;}
+
+.pur-table-s tr td{background:#e1e1e1;text-align:center;line-height:20px;font-size:13px;}
+.pur-table-s tr td a{color:#000;}
+.pur-table-s tr {border:1px solid #fff;}
+
+
+
+.Second_two{float:right; width:400px; height:336px; margin-top:15px; overflow:hidden;}
+.Second_two .title{float:left; width:100%; height:22px; line-height:22px;}
+.Second_two .title h1{float:left; font-size:16px; color:#238f89; border-left:2px solid #000; padding-left:10px;}
+.Second_two .title span{float:right;}
+.Second_two .title span a{color:#a8a8a8;}
+.Second_two .title span img{float:right; margin-left:10px; margin-top:3px; margin-right:10px;}
+.Second_two .rdcon{float:left; width:100%; margin-top:5px; padding-bottom:5px;}
+.Second_two .rdcon p{line-height:24px;}
+
+.Third_one{float:left; margin-top:15px; width:662px; height:336px;}
+.ulList{float:left; width:380px; height:336px; margin-top:15px; overflow:hidden;}
+.ulList ul li{float:left; width:100%; background:url(../images/icon3.png) no-repeat center left; height:28px; line-height:28px; overflow:hidden;}
+.ulList ul li a{padding-left:8px;}
+.xsVideo{float:left; width:260px; margin-left:10px; margin-top:15px;}
+.xsVideo .title{float:left; width:100%; height:22px; line-height:22px;}
+.xsVideo .title h1{float:left; font-size:16px; color:#238f89; border-left:2px solid #000; padding-left:10px;}
+.xsVideo .title span{float:right;}
+.xsVideo .title span a{color:#a8a8a8;}
+.xsVideo .video1{float:left; width:260px; height:170px; margin-top:10px;}
+.xsVideo .video1 .dvi{float:left; width:260px; height:150px;}
+.xsVideo .video1 .dvi img{width:260px; height:150px;}
+.xsVideo .video1 span{float:left; width:260px; height:20px; line-height:20px; font-size:12px;}
+.xsVideo .video2{float:left; width:125px; height:125px; margin-top:10px;}
+.xsVideo .video2.fr{float:right;}
+.xsVideo .video2 .dvi{float:left; width:125px; height:105px;}
+.xsVideo .video2 .dvi img{width:125px; height:105px;}
+.xsVideo .video2 span{float:left; width:125px; height:20px; line-height:20px; overflow:hidden; font-size:12px;}
+
+.Fourth_one{float:left; width:280px; height:480px; border-right:1px solid #dedede; overflow:hidden;}
+.Fourth_one .title{float:left; width:270px; border-bottom:1px solid #999999;}
+.Fourth_one .title h1{font-size:16px; color:#238f89;}
+.Fourth_one .title span{font-size:10px; line-height:20px;}
+.Fourth_one .director{float:left; width:270px;}
+.Fourth_one .director ul li{float:left; width:270px; height:30px; line-height:30px; border-bottom:1px solid #dedede;}
+
+.Fourth_two{float:right; width:780px; height:480px; overflow:hidden;}
+.Fourth_two .Expert{float:left; width:385px; height:435px; overflow:hidden;}
+.Fourth_two .Expert.fr{float:right;}
+.Fourth_two .Expert .exptop{float:left; width:100%; height:180px; margin-top:10px; overflow:hidden;}
+.Fourth_two .Expert .exptop .dimg{float:left; width:135px; height:180px;}
+.Fourth_two .Expert .exptop .dimg img{width:135px; height:180px;}
+.Fourth_two .Expert .exptop .expcon{float:right; width:240px;}
+.Fourth_two .Expert .exptop .expcon .tiname{float:left; width:240px; height:26px; line-height:26px; font-weight:bold;}
+.Fourth_two .Expert .exptop .expcon p{line-height:22px;}
+.Fourth_two .Expert .expulList{float:left; margin-top:10px; width:100%;}
+.Fourth_two .Expert .expulList .title{float:left; width:100%; height:22px; line-height:22px;}
+.Fourth_two .Expert .expulList .title h1{float:left; font-size:16px; color:#238f89; border-left:2px solid #000; padding-left:10px;}
+.Fourth_two .Expert .expulList .title span{float:right;}
+.Fourth_two .Expert .expulList .title span a{color:#a8a8a8;}
+.Fourth_two .Expert .expulList .title span img{float:right; margin-left:10px; margin-top:3px; margin-right:10px;}
+.Fourth_two .Expert .expulList ul li{float:left; width:100%; background:url(../images/icon3.png) no-repeat center left; height:28px; line-height:28px; overflow:hidden;}
+.Fourth_two .Expert .expulList ul li a{padding-left:8px;}

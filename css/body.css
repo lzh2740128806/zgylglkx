@@ -1,0 +1,90 @@
+#body{float:left; width:100%; margin-top:15px;}
+.body_Left{float:left; width:211px; height:auto; padding:0 10px; border-right:1px solid #dedede;}
+.body_Left .office{float:left; width:210px;}
+.body_Left .office ul li{float:left; width:105px;}
+.body_Left .office ul li .dimg{width:105px; height:75px; float:left;}
+.body_Left .office ul li .dimg img{width:75px; height:75px; margin-left:15px;}
+.body_Left .office ul li span{float:left; width:105px; line-height:40px; font-size:18px; text-align:center;}
+.body_Left .offnews{float:left; margin-top:10px; width:210px;}
+.body_Left .offnews .title{float:left; color:#000; font-size:18px; line-height:30px; width:100%;}
+.body_Left .offnews ul li{float:left; width:100%; height:30px; line-height:30px; border-bottom:1px solid #dedede; overflow:hidden;}
+.body_Left .offnews ul li span{float:left; width:18px; height:18px; line-height:18px; text-align:center; margin-top:6px;}
+.body_Left .offnews ul li:nth-child(1) span{background:#238f89; color:#FFF;}
+.body_Left .offnews ul li:nth-child(2) span{background:#238f89; color:#FFF;}
+.body_Left .offnews ul li:nth-child(3) span{background:#238f89; color:#FFF;}
+.body_Left .offnews ul li a{float:left; margin-left:5px; color:#000;}
+.body_Left .offnews .Choice{float:left; width:210px; height:30px; line-height:30px;}
+.body_Left .offnews .Choice a{padding:0 6px;}
+.body_Left .offnews .dimg{float:left; width:210px; height:65px; margin-top:10px; text-align:center;}
+.body_Left .offnews .dimg img{width:204px;}
+.body_Left .offnews .dimg a:hover img{width:210px;}
+
+
+.body_Right{float:right; width:849px; min-height:950px; margin-right:10px;}
+.Navigation{float:left; width:100%; height:30px; line-height:30px; border-bottom:2px solid #999999;}
+.Navigation p{padding-left:10px; color:#666;}
+.Navigation p a.iden{color:#003a62;}
+.NavigaPage{width:100%; float:left;line-height:30px; padding:20px 0; text-align:center;}
+.NavigaPage a{padding:4px 6px; background:#fff; color:#238f89;margin-right:6px; border:solid 1px #238f89; font-size:14px;}
+.NavigaPage a:hover{background:#238f89; color:#fff; }
+
+.Periodical,Listpage,Contactus,elegant{float:left; width:829px; padding:10px;}
+.pur-table-s tr td{background:#e1e1e1;text-align:center;line-height:20px;font-size:14px;}
+.pur-table-s tr td a{color:#000;}
+.pur-table-s tr {border:2px solid #fff;}
+.Periodical ul li{float:left; width:100%; border-bottom:1px dashed #dedede;}
+.Periodical ul li h3{float:left; width:100%; height:34px; line-height:34px;}
+.Periodical ul li h3 a{float:left; font-size:18px; color:#000; font-weight:500;}
+.Periodical ul li h3 span{float:right; font-size:13px; font-weight:100;}
+.Periodical ul li p.qkzx_n_w{float:left; line-height:24px; color:#333333;}
+.Periodical ul li p.qkzx_n_w a{color:#F00;}
+.Periodical ul li p.qkml_author{float:left; line-height:28px; text-align:right; width:100%; color:#238f89;}
+
+.Periodical .abstract{float:left; width:100%; border-bottom:1px dashed #dedede;}
+.Periodical .abstract .title{float:left; width:100%; font-size:18px; color:#000; font-weight:500; line-height:45px;}
+.Periodical .abstract p{line-height:40px;}
+.Periodical .abstract p span{color:#00F; text-decoration:underline;}
+.Periodical .Period_text{float:left; margin-top:15px; margin-bottom:15px;}
+.Periodical .Period_text p{line-height:24px; text-indent:2em; float:left;}
+.Periodical .Period_text p.eng{line-height:24px; text-indent:2em; float:left; margin-top:15px;}
+.Periodical .brief{float:left; width:100%; border-bottom:1px dashed #dedede;}
+.Periodical .brief p{line-height:40px;}
+
+.Listpage ul li{float:left; width:100%; height:40px; line-height:40px; border-bottom:1px dashed #dedede; background:url(../images/icon3.png) no-repeat center left; overflow:hidden;}
+.Listpage ul li a{float:left; padding-left:8px; width:720px; height:40px; overflow:hidden;}
+.Listpage ul li a:hover{color:#238f89;}
+.Listpage ul li span{float:right; font-size:12px; color:#666;}
+.Listpage_sp ul li{float:left; width:829px; height:130PX; border-bottom:1px dashed #dedede; background:url(../images/icon4.png) no-repeat center left; overflow:hidden; margin-left:10px; margin-top:10px;}
+.Listpage_sp ul li .dimg{float:left; width:120px;}
+.Listpage_sp ul li .dimg img{width:100%;}
+.Listpage_sp ul li .Listpage_con{float:left; width:700px; margin-left:8px;}
+.Listpage_sp ul li .Listpage_con .title{float:left; width:100%; height:30px; line-height:30px;}
+.Listpage_sp ul li .Listpage_con .title a{float:left; overflow:hidden; color:#000;}
+.Listpage_sp ul li .Listpage_con .title a:hover{color:#238f89;}
+.Listpage_sp ul li .Listpage_con .title span{float:right; font-size:12px; color:#666;}
+.Listpage_sp ul li .Listpage_con .Listpage_p{float:left; width:100%; height:100px; overflow:hidden;}
+.Listpage_sp ul li .Listpage_con .Listpage_p p{text-indent:2em; line-height:25px; color:#666;}
+.Listpage .title{float:left; width:100%; padding:20px 0; border-bottom:1px dashed #dedede;}
+.Listpage .title h3{width:100%; text-align:center; font-size:18px; color:#000; font-weight:500; line-height:45px;}
+.Listpage .title span{text-align:right; width:100%; line-height:30px; font-size:12px; color:#666; float:right;}
+.Listpage .Listpage_text{float:left; margin-top:10px; padding-bottom:50px;}
+.Listpage .Listpage_text p{line-height:26px; font-size:14px;}
+
+.elegant ul li{float:left; width:120px; height:180px; padding:24px;}
+.elegant ul li img{float:left; width:120px; height:159px;}
+.elegant ul li a img{width:122px; height:161px; border:1px solid #dedede;}
+.elegant ul li span{float:left; width:100%; text-align:center; line-height:28px;}
+.elegant .introduce{float:left; margin-top:20px; margin-bottom:20px; width:819px; margin-left:10px; border-bottom:1px dashed #dedede; padding-bottom:20px;}
+.elegant .introduce .zjimg{float:left; width:140px; margin-right:20px;}
+.elegant .introduce .zjimg img{width:100%;}
+.elegant .introduce .resu{float:left; width:650px;}
+.elegant .introduce .resu p{line-height:30px;}
+.elegant .introduce .resu p span{line-height:30px; float:left; font-weight:bold; margin-right:15px;}
+.elegant .resume{float:left; margin-top:10px; margin-bottom:20px; width:819px; margin-left:10px;}
+.elegant .resume p{text-indent:2em; line-height:26px;}
+.elegant .resume p.title{text-indent:2em; line-height:36px; font-size:18px; border-bottom:1px dashed #dedede;}
+
+
+.Contactus .lxwm,.Contactus .sm{float:left; width:780px; margin:20px;}
+.Contactus .lxwm p,.Contactus .sm p{line-height:28px;}
+.Contactus .z_map{float:left; width:785px; margin-left:20px;}
